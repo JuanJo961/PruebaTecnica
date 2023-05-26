@@ -8,6 +8,8 @@ public class FormularioRegistroApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FormularioRegistroApplication.class, args);
+		System.out.print("Aplicacion");
+	
 	}
 
 }
